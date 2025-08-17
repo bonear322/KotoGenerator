@@ -16,16 +16,16 @@ void ErrorHandler(
 		{
 			case ( BAD_DOCX_FILE_STRUCT ):
 			{
-				MessageBox(NULL, "Неправильная структура входного docx-файла", "Ошибка", MB_ICONERROR | MB_OK);
+				MessageBox(NULL, "РќРµРїСЂР°РІРёР»СЊРЅР°СЏ СЃС‚СЂСѓРєС‚СѓСЂР° РІС…РѕРґРЅРѕРіРѕ docx-С„Р°Р№Р»Р°", "РћС€РёР±РєР°", MB_ICONERROR | MB_OK);
 				break;
 			}
 			default:
-				MessageBox(NULL, "Ошибка", "Ошибка", MB_ICONERROR | MB_OK);
+				MessageBox(NULL, "РћС€РёР±РєР°", "РћС€РёР±РєР°", MB_ICONERROR | MB_OK);
 		}
 	}
 	else
 	{
-		MessageBox(NULL, message, "Ошибка", MB_ICONERROR | MB_OK);
+		MessageBox(NULL, message, "РћС€РёР±РєР°", MB_ICONERROR | MB_OK);
 		free( message );
 	}
 	
