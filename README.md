@@ -15,9 +15,10 @@
 ## Работа программы
 
 **Пример 1.**
-
-![input1](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/input1.JPG)
- Входной файл input1
+<p align="center">
+	<img src="https://github.com/bonear322/KotoGenerator/blob/main/screenshots/input1.JPG"/>
+</p>
+Входной файл input1
 
 ![cmd1](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/cmd1.JPG)
 Ввод параметров кодогенератора
