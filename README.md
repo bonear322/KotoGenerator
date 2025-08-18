@@ -17,7 +17,7 @@
 **Пример 1.**
 
 ![input1](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/input1.JPG)
-Входной файл input1
+ Входной файл input1
 
 ![cmd1](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/cmd1.JPG)
 Ввод параметров кодогенератора
