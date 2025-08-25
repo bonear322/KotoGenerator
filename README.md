@@ -21,40 +21,73 @@
 <p align="center">Входной файл input1</p>
 <br>
 
-![cmd1](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/cmd1.JPG)
-Ввод параметров кодогенератора
+<p align="center">
+	<img src="https://github.com/bonear322/KotoGenerator/blob/main/screenshots/cmd1.JPG"/>
+</p>
+<p align="center">Ввод параметров кодогенератора</p>
+<br>
 
-![output1](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/output1.JPG)
-Файл вывода output1
+<p align="center">
+	<img src="https://github.com/bonear322/KotoGenerator/blob/main/screenshots/output1.JPG"/>
+</p>
+<p align="center">Файл вывода output1</p>
+<br>
 
-![cmd1_2](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/cmd1_2.JPG)
-Запуск с иными параметрами кодогенератора
+<p align="center">
+	<img src="https://github.com/bonear322/KotoGenerator/blob/main/screenshots/cmd1_2.JPG"/>
+</p>
+<p align="center">Запуск с иными параметрами кодогенератора</p>
+<br>
 
-![output1_2](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/output1_2.JPG)
-Файл вывода output1
+<p align="center">
+	<img src="https://github.com/bonear322/KotoGenerator/blob/main/screenshots/output1_2.JPG"/>
+</p>
+<p align="center">Файл вывода output1</p>
+<br>
 
 **Пример 2.**
-![input2](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/input2.JPG)
-Входной файл input2
+<p align="center">
+	<img src="https://github.com/bonear322/KotoGenerator/blob/main/screenshots/input2.JPG"/>
+</p>
+<p align="center">Входной файл input2</p>
+<br>
 
-![cmd2](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/cmd2.JPG)
-Ввод параметров кодогенератора
+<p align="center">
+	<img src="https://github.com/bonear322/KotoGenerator/blob/main/screenshots/cmd2.JPG"/>
+</p>
+<p align="center">Ввод параметров кодогенератора</p>
+<br>
 
-![output2](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/output2.JPG)
-Файл вывода output2
+<p align="center">
+	<img src="https://github.com/bonear322/KotoGenerator/blob/main/screenshots/output2.JPG"/>
+</p>
+<p align="center">Файл вывода output2</p>
+<br>
 
 **Обработка ошибок 1.**
-![error_input1](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/error_input1.JPG)
-Входной файл input1
+<p align="center">
+	<img src="https://github.com/bonear322/KotoGenerator/blob/main/screenshots/error_input1.JPG"/>
+</p>
+<p align="center">Входной файл input1</p>
+<br>
 
-![error_output1](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/error_output1.JPG)
-Сообщение об ошибке
+<p align="center">
+	<img src="https://github.com/bonear322/KotoGenerator/blob/main/screenshots/error_output1.JPG"/>
+</p>
+<p align="center">Сообщение об ошибке</p>
+<br>
 
 **Обработка ошибок 2.**
-![error_input2](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/error_input2.JPG)
-Входной файл input1
+<p align="center">
+	<img src="https://github.com/bonear322/KotoGenerator/blob/main/screenshots/error_input2.JPG"/>
+</p>
+<p align="center">Входной файл input1</p>
+<br>
 
-![error_output2](https://github.com/bonear322/KotoGenerator/blob/main/screenshots/error_output2.JPG)
-Сообщение об ошибке
+<p align="center">
+	<img src="https://github.com/bonear322/KotoGenerator/blob/main/screenshots/error_output2.JPG"/>
+</p>
+<p align="center">Сообщение об ошибке</p>
+<br>
 
 
